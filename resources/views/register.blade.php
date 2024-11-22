@@ -76,7 +76,7 @@
                             </div>
                             <div class="d-grid gap-2">
                                 <button type="submit" class="btn btn-primary">Register</button>
-                                <a href="{{ route('welcome') }}" class="btn btn-dark">Back</a>
+                                <a href="{{ route('side') }}" class="btn btn-dark">Back</a>
                             </div>
                         </form>
                     </div>
