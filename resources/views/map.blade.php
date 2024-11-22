@@ -23,7 +23,7 @@
         <div class="container py-5">
             <h2 class="text-center text-primary font-weight-bold mb-4">
                 <i class="fas fa-map-marked-alt"></i>
-                <span class="ml-2">Map Task</span>
+                <span class="ml-2">My Map</span>
             </h2>
             <form action="{{ route('map.process') }}" method="POST">
                 @csrf
